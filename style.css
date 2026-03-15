@@ -281,6 +281,7 @@ footer{
     order:1; /* Image first on mobile */
   }
   .hero-img img{
+    width:80%;
     max-width:250px;
     margin:0 auto;
   }
